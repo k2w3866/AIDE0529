@@ -4,3 +4,5 @@ Status - Ver 1
 test 3 - final
 
 add hobby page
+
+add speciality
